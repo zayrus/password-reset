@@ -3,7 +3,7 @@ Node password reset with express+mongoose+ nodemailer+passport+bcrypt
 
 Install 
 ------------
-1-git clone https://github.com/zayrus/password-reset.git
+1-git clone https://github.com/zayrus/password-reset.git <br>
 2-cd password-reset && npm install
 
 Run
